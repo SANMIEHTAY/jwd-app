@@ -9,6 +9,4 @@ public class HomeController {
 	public String home() {
 		return "home";
 	}
-	
-	//Testing Hnin Ei Lwin
 }
